@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saravanakumar k s</h1>
 
 <h3 align="center">A passionate Backend developer..!</h3>
-<img align="right" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg" >
+<p  ><img align="right" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg" ></p>
 
 
 - 🔭 I’m currently pursuing Btech IT in **KPR INSTITUTE OF ENGINEERING.**
