@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Backend at Spotknack.**
 
-- 👨‍💻 Mine portfolio at [http://tinyurl.com/yckbby33](http://tinyurl.com/yckbby33)
-
 - 📫 How to reach me **Saravanasugumar1325@gmail.com**
 
 - ⚡ Fun fact **Google's First Tweet was in binary.**
